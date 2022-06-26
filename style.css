@@ -1,0 +1,40 @@
+h1{
+    background-color: lightcoral;
+    color: rgb(244, 238, 238);
+    border: 5px solid;
+    margin: 12px;
+    padding-top: 0rem;
+    border-color:black;
+    text-align: center
+    
+
+}
+p.currect{
+    text-align: center;
+}
+body{
+    background-image:url("https://www.deccanherald.com/sites/dh/files/articleimages/2020/08/03/file7bq2y7fo5rqarl417eo-1596477462.jpg");
+    background-repeat:no-repeat;
+    background-size: 1500px;
+    border: 25px solid cornsilk;
+    padding: 15px;
+    margin: 30px;
+    
+
+    
+}
+button{
+    al: center;
+    width: 1200px ;
+    border:12px solid red;
+     border-radius: 6px ;
+    
+}
+
+.sub{
+    text-align: center;
+}
+
+
+
+    
